@@ -1,0 +1,6 @@
+*.net
+*.php
+
+[aeiou]*
+
+!e.txt
